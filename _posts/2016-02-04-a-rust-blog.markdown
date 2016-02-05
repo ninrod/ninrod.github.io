@@ -18,6 +18,4 @@ fn main() {
 
 And that's it for today!
 
-Hello Arnaldo!
-
 [1]: <www.rust-lang.com>
