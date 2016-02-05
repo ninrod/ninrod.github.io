@@ -7,4 +7,4 @@ permalink: /about/
 Hi. I'm ninrod. I like all things related to programming.
 
 I use almost exclusively vim, but sometimes I can't avoid java. I use IntelliJ for java. 
-You can find me on github or twitter.
+You can find me on github or twitter. See you there.

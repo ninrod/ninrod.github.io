@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Ninrod stuff
+title: Ninrod must code
 email: no@spam.com
 description: > # this means to ignore newlines until "baseurl:"
-  personal webpage of ninrod, A.K.A. Filipe Silva.
+  personal webpage of ninrod, a.k.a Filipe Silva.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ninrod.github.io" # the base hostname & protocol for your site
 twitter_username: filipetwits
